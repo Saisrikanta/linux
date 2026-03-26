@@ -1,1 +1,2 @@
+This is my app.
 Hotfix bug fixed
